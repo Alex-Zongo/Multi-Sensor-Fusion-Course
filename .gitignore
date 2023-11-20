@@ -1,3 +1,7 @@
 .hw
 .vscode
 __pycache__
+*.png
+*.docx
+*.pdf
+*.zip
